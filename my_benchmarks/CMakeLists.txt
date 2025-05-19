@@ -1,0 +1,2 @@
+add_executable(vector_add_element vector_add_element.cpp)
+target_link_libraries(vector_add_element benchmark::benchmark)
